@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @psychowolf960
-- 👀 I’m interested in cool stuff
-- 🌱 I’m currently learning cool stuff
-- 💞️ I’m looking to collaborate on cool stuff
-- 📫 How to reach me : you don't
+- 👋 Hi, I’m @psychowolf960, your. regular 16 year old french student
+- 👀 I’m interested in Game Development 
+- 🌱 I’m currently making my first game
+- 💞️ I’m looking to collaborate, whynot?
 
 <!---
 psychowolf960/psychowolf960 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
